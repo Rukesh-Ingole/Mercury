@@ -39,7 +39,7 @@ public class Demo
 		for (Cookie cookie2 : cookie) 
 		{
 		System.out.println("Cookies Name "+cookie2.getName());
-		System.out.println("Cookie Print Sccessful")	
+		System.out.println("Cookie Print Sccessful");
 		}
 	}
 	@Test
